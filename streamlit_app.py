@@ -9,7 +9,7 @@ from email.mime.application import MIMEApplication
 # ----------------------
 # CONFIG
 # ----------------------
-EXCEL_FILE = "myG-onsitego-claim/MYG India Pvt Ltd report for AUGUST 2025_Revised (1).xlsx"
+EXCEL_FILE = "MYG India Pvt Ltd report for AUGUST 2025_Revised (1).xlsx"
 TARGET_EMAIL = "jmon11829@gmail.com"
 SMTP_SERVER = "smtp.gmail.com"
 SMTP_PORT = 587
